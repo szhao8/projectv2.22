@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c22d1e4e-7eba-424a-a2f7-2952f7ad780c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ruby-getting-started" afterPath="$PROJECT_DIR$/ruby-getting-started" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ruby-getting-started/bin/bundle" afterPath="$PROJECT_DIR$/ruby-getting-started/bin/bundle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ruby-getting-started/bin/rails" afterPath="$PROJECT_DIR$/ruby-getting-started/bin/rails" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ruby-getting-started/bin/rake" afterPath="$PROJECT_DIR$/ruby-getting-started/bin/rake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ruby-getting-started/bin/spring" afterPath="$PROJECT_DIR$/ruby-getting-started/bin/spring" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruby-getting-started" afterPath="" />
     </list>
     <ignored path="StoryBoard.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -20,7 +16,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/StoryBoard@Development__StoryBoard.coverage" NAME="Development: StoryBoard Coverage Results" MODIFIED="1424644938191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="StoryBoard" />
+    <SUITE FILE_PATH="coverage/StoryBoard@Development__StoryBoard.coverage" NAME="Development: StoryBoard Coverage Results" MODIFIED="1424646834846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="StoryBoard" />
     <SUITE FILE_PATH="coverage/StoryBoard@routes__StoryBoard.coverage" NAME="routes: StoryBoard Coverage Results" MODIFIED="1423885997470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="StoryBoard" />
     <SUITE FILE_PATH="coverage/StoryBoard@db_migrate__StoryBoard.coverage" NAME="db:migrate: StoryBoard Coverage Results" MODIFIED="1423882665632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="StoryBoard" />
     <SUITE FILE_PATH="coverage/StoryBoard@db_rollback__StoryBoard.coverage" NAME="db:rollback: StoryBoard Coverage Results" MODIFIED="1423853566956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="StoryBoard" />
@@ -128,8 +124,8 @@
       <file leaf-file-name="search.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/projects/search.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21169356" vertical-offset="0" max-vertical-offset="690">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.09274194" vertical-offset="194" max-vertical-offset="690">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -441,7 +437,7 @@
     <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
     <property name="RakeTaksPopup.undocumentedIncluded" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ruby-getting-started" />
     <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -729,7 +725,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-10" y="44" width="1436" height="812" extended-state="0" />
+    <frame x="-10" y="44" width="1436" height="812" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1162,8 +1158,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/projects/search.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21169356" vertical-offset="0" max-vertical-offset="690">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.09274194" vertical-offset="194" max-vertical-offset="690">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
           <folding />
         </state>
       </provider>
